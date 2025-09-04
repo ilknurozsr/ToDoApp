@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Yemek ye",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "title": "Marktete git",
+      "completed": true
+    },
+    {
+      "id": "3",
+      "title": "Spor yap",
+      "completed": true
+    }
+  ]
+}
